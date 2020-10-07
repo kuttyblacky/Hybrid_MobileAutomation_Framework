@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="312254" started-at="2019-11-01T16:25:51 IST" finished-at="2019-11-01T16:31:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="312254" started-at="2019-11-01T16:25:51 IST" finished-at="2019-11-01T16:31:03 IST">
+      <class name="Exp.MAF2.ecommerce_tc_4">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Exp.MAF2.ecommerce_tc_4@46daef40]" name="killAllNodes" is-config="true" duration-ms="3036" started-at="2019-11-01T16:25:51 IST" finished-at="2019-11-01T16:25:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalvalidation()[pri:0, instance:Exp.MAF2.ecommerce_tc_4@46daef40]" name="totalvalidation" duration-ms="188802" started-at="2019-11-01T16:27:55 IST" finished-at="2019-11-01T16:31:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalvalidation -->
+      </class> <!-- Exp.MAF2.ecommerce_tc_4 -->
+      <class name="Exp.MAF2.Zerosanity">
+        <test-method status="PASS" signature="sanitytest()[pri:0, instance:Exp.MAF2.Zerosanity@12f41634]" name="sanitytest" duration-ms="79557" started-at="2019-11-01T16:25:54 IST" finished-at="2019-11-01T16:27:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sanitytest -->
+      </class> <!-- Exp.MAF2.Zerosanity -->
+      <class name="Exp.MAF2.ecommerce_tc_3">
+        <test-method status="PASS" signature="errormsgValidation()[pri:0, instance:Exp.MAF2.ecommerce_tc_3@13c27452]" name="errormsgValidation" duration-ms="40756" started-at="2019-11-01T16:27:14 IST" finished-at="2019-11-01T16:27:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errormsgValidation -->
+      </class> <!-- Exp.MAF2.ecommerce_tc_3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
